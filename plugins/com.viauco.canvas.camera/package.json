@@ -1,0 +1,79 @@
+{
+  "_from": "git+https://github.com/viauco/cordova-canvas-camera.git",
+  "_id": "com.viauco.canvas.camera@1.2.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/com.viauco.canvas.camera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/viauco/cordova-canvas-camera.git",
+    "rawSpec": "https://github.com/viauco/cordova-canvas-camera.git",
+    "saveSpec": "git+https://github.com/viauco/cordova-canvas-camera.git",
+    "fetchSpec": "https://github.com/viauco/cordova-canvas-camera.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/viauco/cordova-canvas-camera.git#f85921507806a00a13d7885871f5c0dafde7fb44",
+  "_spec": "https://github.com/viauco/cordova-canvas-camera.git",
+  "_where": "/home/amela/Desktop/viauco-cordova-camera-demo",
+  "bugs": {
+    "url": "https://github.com/viauco/cordova-canvas-camera/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Virtuoworks",
+      "url": "https://www.virtuoworks.com/"
+    },
+    {
+      "name": "Sami Radi",
+      "email": "sami.radi@virtuoworks.com",
+      "url": "https://github.com/Sami-Radi"
+    },
+    {
+      "name": "Sébastien Guillon",
+      "email": "sebastien.guillon@virtuoworks.com",
+      "url": "https://github.com/Sebastien-Guillon"
+    }
+  ],
+  "cordova": {
+    "id": "com.viauco.canvas.camera",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "A Cordova plugin to display video from the device's camera into an HTML canvas element.",
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-google": "^0.14.0"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/viauco/cordova-canvas-camera#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "camera",
+    "canvas"
+  ],
+  "license": "MIT",
+  "name": "com.viauco.canvas.camera",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viauco/cordova-canvas-camera.git"
+  },
+  "version": "1.2.0"
+}

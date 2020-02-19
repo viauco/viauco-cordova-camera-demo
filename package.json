@@ -25,8 +25,6 @@
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-network-information": {},
       "cordova-plugin-vibration": {},
-      "cordova-plugin-compat": {},
-      "com.viauco.canvas-camera": {},
       "com.viauco.canvas.camera": {}
     },
     "platforms": [
@@ -34,7 +32,7 @@
     ]
   },
   "dependencies": {
-    "com.viauco.canvas-camera": "file:res/plugins/viauco-canvas-camera",
+    "com.viauco.canvas.camera": "git+https://github.com/viauco/cordova-canvas-camera.git",
     "cordova-android": "^8.1.0",
     "cordova-plugin-compat": "^1.2.0"
   }
